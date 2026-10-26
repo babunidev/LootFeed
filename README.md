@@ -1,5 +1,7 @@
 # Loot Feed
 
+**Author:** Babuni.dev
+
 A compact, movable loot feed for **World of Warcraft 1.12**. No dependencies.
 
 - Five animated loot rows with item icons, rarity colors, and stack counts.
