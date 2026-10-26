@@ -7,7 +7,7 @@
 ```text
 LootFeed.toc   Interface 11200, Version 0.2.2
                SavedVariables: LootFeedDB (account-wide)
-               Roll s.lua [actual filename Rolls.lua] -> LootFeed.lua
+               Rolls.lua -> LootFeed.lua
 Rolls.lua      LootFeedRolls global; roll records, message parser, timeouts
 LootFeed.lua   feed rows, queue, icons, tooltip, animation, chat hook, commands
 ```
