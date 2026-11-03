@@ -1,6 +1,6 @@
 # LootFeed — project collaboration and development rules
 
-**Creative direction / decisions:** Babuni.dev. **Installed identity:** LootFeed v0.2.2; historic name **Octo Loot**.
+**Creative direction / decisions:** Babuni. **Installed identity:** LootFeed v0.2.2; historic name **Octo Loot**.
 
 ## Preserve the authored UX
 
@@ -31,3 +31,7 @@ For substantial work, preserve:
 6. Verification actually run, results and remaining unknowns.
 
 Maintain README, CONCEPT, ROADMAP, CHANGELOG, AGENTS, and `docs/DEVLOG.md`, `DECISIONS.md`, `DESIGN.md`, `ARCHITECTURE.md`, `CONTENT.md`, `AI_COLLABORATION.md`. Do not publish private players' loot history, chat or credentials. The 2026-10-26 job is documentation-only.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
