@@ -1,6 +1,6 @@
-# LootFeed — the creative and technical development journal
+# LootFeed — development journal
 
-**Original creator and creative director:** Babuni.dev  
+**Creative:** Babuni  
 **Retrospective prepared:** October 26, 2026. Evidence: current README, TOC, both Lua source files, PowerShell migration utility and test, screenshots, dated Git diffs and v0.2.2 release metadata. This is **not a transcript of every earlier conversation**; unknown motives are labeled rather than invented.
 
 ## Beginning with a small reward moment
