@@ -1,6 +1,6 @@
 # Loot Feed
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
 A compact, movable loot feed for **World of Warcraft 1.12**. No dependencies.
 
