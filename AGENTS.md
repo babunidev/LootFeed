@@ -14,7 +14,7 @@
 - `showLootSpam` is changed to `1` if it was `0`; this is a gameplay-setting side effect. Any modification needs creative consent and tests.
 - A global `ChatFrame_OnEvent` wrapper can interact with other chat addons. Avoid silent global refactoring.
 - Migrate old **OctoLootDB** safely to **LootFeedDB** when renaming. Never overwrite someone's only saved data.
-- The repo has **no LICENSE**; do not invent rights for the code, screenshots or upstream game assets.
+- Original software is MIT-licensed under `LICENSE` (13 November 2026). This does not grant rights over screenshots or upstream game assets.
 
 ## Documentation and test discipline
 
