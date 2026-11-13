@@ -1,5 +1,7 @@
 # LootFeed — human–AI collaboration and provenance
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 **Creator / final creative authority:** Babuni.dev.
 
 ## Attribution must follow evidence
