@@ -95,7 +95,7 @@ A bundled test for **loot animation or group-roll parsing** was **not** present 
 
 The historical name was **Octo Loot**, with `OctoLootDB`; the September rename changed both addon identity and SavedVariables. Do not simply rename a folder without migrating old settings. The creator is **Babuni.dev**; this documentation pass preserves creative authorship and records later AI research separately.
 
-The current repository tree contains **no LICENSE file**. GitHub visibility alone does not confer a reuse license; licensing is a creator decision.
+The original software is licensed under [MIT](LICENSE) as of 13 November 2026. Third-party assets retain their own terms.
 
 ## Development documentation
 
