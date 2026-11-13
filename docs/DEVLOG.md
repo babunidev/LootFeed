@@ -70,3 +70,7 @@ The README's download link originally used an older account name. Checking live 
 When many loot items and group rolls arrive together, does the five-row personal cap preserve the right balance? How often is another addon changing the chat handler? Does the user welcome the automatically enabled detailed loot spam, or should that be a choice? How does the little die tooltip feel at different UI scales?
 
 The resulting portfolio entry can show more than an animated loot list. It can show how a quick celebration of receiving something grew into **a careful account of uncertain shared decisions**, and how compatibility and data preservation required subsequent iteration.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved MIT for original addon code. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
