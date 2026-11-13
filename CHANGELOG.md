@@ -36,3 +36,8 @@ A [public release v0.2.2](https://github.com/babunidev/LootFeed/releases/tag/v0.
 ## 2026-10-26 — credit and first documentation scaffold
 
 Commits `828c6a0`, `afcc482`, `307eeb0` and `7ce832b` standardized Babuni.dev authorship and added/linked a brief initial documentation set. The current pass expands it into a narrative and technical record.
+
+## 2026-11-13 — License and rights
+
+- Established MIT for original addon software and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No gameplay or runtime verification is claimed.
